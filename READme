@@ -1,0 +1,32 @@
+Network Packet Analyzer (Scapy)
+
+This is a simple Python-based network packet analyzer built using Scapy.
+
+The program captures live network packets and displays:
+
+Source IP
+
+Destination IP
+
+Protocol (TCP/UDP)
+
+Source & Destination Ports
+
+DNS Queries and Responses
+
+Installation
+pip install scapy
+
+Run the Script
+
+On Windows:
+
+python filename.py
+
+
+On Linux:
+
+sudo python3 filename.py
+
+
+⚠️ Run with administrator/root privileges.
